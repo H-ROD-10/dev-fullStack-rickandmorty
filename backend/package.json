@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Graphql, Node, Api Rick and Morty",
+  "main": "dist/server.js",
+  "scripts": {
+    "start": "node dist/server.js",
+    "build": "tsc -p .",
+    "dev": "nodemon tsc-watch --onSuccess \"node ./dist/server.js\""
+  },
+  "author": "Hector Rodriguez",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.9.1",
+    "axios": "^1.4.0",
+    "graphql": "^16.8.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.0",
+    "nodemon": "^3.0.1",
+    "typescript": "^5.1.6"
+  }
+}
