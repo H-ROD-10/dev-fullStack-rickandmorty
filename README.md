@@ -25,7 +25,7 @@ Licencia
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
 
 Contacto
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de tu-email@example.com.
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de https://github.com/H-ROD-10.
 
 Espero que esto te sirva como punto de partida para crear el README de tu proyecto backend. Puedes personalizarlo según las necesidades específicas de tu proyecto.
 
